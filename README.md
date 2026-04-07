@@ -265,10 +265,6 @@ jwt.expiration=86400000  # 24 hours in milliseconds
 - [ ] Unit and integration tests
 - [ ] Docker containerization
 
-## Author
-
-Devyani
-
 ## License
 
 This project is for assessment purposes.
